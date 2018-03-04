@@ -15,8 +15,8 @@ image {
     
 }
 h3{
-	border-style: Dotted;
-    border-color: Black;
+	border-style: solid;
+    border-color: black;
     border-width: 5px solid #ccc;
 }
 p{
